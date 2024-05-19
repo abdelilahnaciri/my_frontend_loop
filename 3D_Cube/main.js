@@ -20,4 +20,4 @@ function ChangeColor() {
 
 let counter = setInterval(ChangeColor, 4000)
 
-console.log(layers);
+// console.log(layers);
